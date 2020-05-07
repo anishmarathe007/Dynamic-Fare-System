@@ -1,0 +1,109 @@
+body{
+	
+	margin: 0;
+    
+    background-color: black;
+    
+    
+}
+
+div.relative{
+	margin: 0;
+	background: url("map3.png");
+	background-repeat:no-repeat; 
+	left:400px;
+	top: 50px; 
+	position: relative;
+	height: 1200px;
+	width: 800px;
+	background-size:auto;
+}
+
+div.abs1{
+	position: absolute;
+	top:500px;
+	left:110px;
+}
+
+p{
+	text-align: center;
+}
+
+div.abs4{
+	position: absolute;
+	top:400px;
+	left:220px;	
+}
+
+div.abs2{
+	position: absolute;
+	top:470px;
+	left:280px;
+}
+
+div.abs3{
+	position: absolute;
+	top:280px;
+	left:110px
+}
+
+div.abs5{
+	position: absolute;
+	top:400px;
+	left:40px;
+}
+
+div.abs6{
+	position: absolute;
+	top:570px;
+	left:240px;
+}
+
+div.abs7{
+	position: absolute;
+	top:620px;
+	left:150px;
+}	
+
+div.abs8{
+	position: absolute;
+	top:170px;
+	left:180px;
+}	
+
+div.abs9{
+	position: absolute;
+	top:350px;
+	left:370px;
+}	
+
+div.abs10{
+	position: absolute;
+	top:300px;
+	left:280px;
+}	
+
+div.abs11{
+	position: absolute;
+	top: -50px;
+	left: 210px;
+}	
+
+div.abs12{
+	position: absolute;
+	top: 220px;
+	left: 210px;	
+}
+
+
+div.abs13{
+	position: absolute;
+	top: 750px;
+	left: 204px;	
+}
+
+div.abs14{
+	position: absolute;
+	top: 730px;
+	left: 220px;	
+}
